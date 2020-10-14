@@ -18,6 +18,7 @@ class _HomeWidgetState extends State<HomeWidget> {
           width: 200,
           height: 200,
           color: Colors.red,
+          child: RaisedButton(onPressed: null),
         ),
       ),
     );
